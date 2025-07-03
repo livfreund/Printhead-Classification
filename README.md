@@ -1,7 +1,7 @@
 # Printhead-Classification
 
-Project Overview
-University of Northern Iowa Metal Casting & Foundry 4.0 Centers
+Project Overview |
+University of Northern Iowa Metal Casting & Foundry 4.0 Centers | 
 Olivia Freund | 11/15/2024 
 
 A method was required to assess the efficiency of 3-D printheads in rotation and identify those in need of replacement. The most effective approach involved developing a program to count the number of dark pixels in an image produced by a given printhead and compare it to the number of dark pixels from a known satisfactory printhead. The program then evaluated printhead quality based on standard deviation.
