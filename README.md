@@ -15,10 +15,10 @@ Key Technologies Used:
 Why Two Programs?
 As the development process progressed, it became clear that eliminating the need for scanning would improve efficiency. Additionally, with modern technology providing instant results at the click of a button, any program should be simplified for the user whenever possible without compromising efficiency or speed. For this reason, the second program was developed as an additional option.
 
-Learning Opportunities
+Learning Opportunities:
 During the creation of these programs, I encountered multiple difficulties. First, this was my first time working with a User Interface. I asked questions throughout the process and was ultimately able to figure out how to create one and use it efficiently. Furthermore, I found it difficult to code the specific actions the computer had to take upon each click and release of a button. However, I learned a lot as I continued. This project has helped me immensely in providing me with experience and knowledge of User Interfaces.  
 
-Future Opportunities 
+Future Opportunities:
 	This company can use these programs in the future to create an efficient and accurate schedule for when to order new printheads and ultimate save overall costs of printheads as a result. This is good for business and business practices. 
 
 
